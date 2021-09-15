@@ -1,7 +1,8 @@
 # OWA_Layer
 Implementation of the OWA layer in Fastai.
 
-This repository contains the code associated with our latest experiments, detailed in a paper to be published. The bibliographic reference will be added here as soon as it is available.
+Implementation details in the associated paper:
+Dominguez-Catena, I.; Paternain, D.; Galar, M. A Study of OWA Operators Learned in Convolutional Neural Networks. Appl. Sci. 2021, 11, 7195. https://doi.org/10.3390/app11167195 
 
 ## Requirements
 
